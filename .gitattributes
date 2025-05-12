@@ -1,0 +1,14 @@
+# Automatically normalize line endings
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.css text
+*.js text
+*.html text
+*.cs text
+*.cshtml text
+
+# Binary files should not be modified
+*.png binary
+*.jpg binary
+*.gif binary
