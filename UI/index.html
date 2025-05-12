@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Education and Certification Profile</h1>
+    <div id="education-section">
+        <h2>Education</h2>
+        <form id="education-form">
+            <input type="text" name="institution" placeholder="Institution" required>
+            <input type="text" name="degree" placeholder="Degree" required>
+            <input type="text" name="year" placeholder="Year" required>
+            <button type="submit">Add Education</button>
+        </form>
+        <ul id="education-list">
+            <!-- Example entry -->
+            <li id="edu-1">Institution, Degree, Year <button onclick="editEducation('edu-1')">Edit</button> <button onclick="deleteEducation('edu-1')">Delete</button></li>
+        </ul>
+    </div>
+    <div id="certification-section">
+        <h2>Certifications</h2>
+        <form id="certification-form">
+            <input type="text" name="name" placeholder="Certification Name" required>
+            <input type="text" name="organization" placeholder="Issuing Organization" required>
+            <input type="text" name="date" placeholder="Date" required>
+            <button type="submit">Add Certification</button>
+        </form>
+        <ul id="certification-list"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

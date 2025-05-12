@@ -1,0 +1,8 @@
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\parva\OneDrive\Desktop\testing program\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.RazorAssemblyInfo.cs
